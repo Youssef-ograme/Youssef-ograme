@@ -10,12 +10,6 @@
 ###
 
 <div align="center">
-  <img height="309" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VtcGI3ZzU2eDJvejExN2ZycnY0dWl1NHh3NnBmZHhscHlqeDNxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/22EKRZrceeBSxXMbxX/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="76" alt="python logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="76" alt="c logo"  />
