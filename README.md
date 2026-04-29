@@ -68,7 +68,7 @@
     <animateTransform attributeName="transform" type="translate" values="0,15;0,0" dur="0.4s" begin="3.6s" fill="freeze"/>
   </image>
   <!-- Git -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="370" y="158" width="36" height="36" opacity="0">
+  <image href="" x="370" y="158" width="36" height="36" opacity="0">
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.75s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" values="0,15;0,0" dur="0.4s" begin="3.75s" fill="freeze"/>
   </image>
